@@ -1,6 +1,5 @@
 mount = 12
+winter = [12, 1, 2]
 
-if mount == 12 or \
-              mount == 1 or \
-              mount == 2:  # TODO переписать условие с помощью оператора in
+if mount in winter:  # TODO переписать условие с помощью оператора in
     print("Зима!!!")

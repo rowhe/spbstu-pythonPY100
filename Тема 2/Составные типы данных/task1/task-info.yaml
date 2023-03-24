@@ -7,15 +7,15 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 58
-    length: 36
+  - offset: 59
+    length: 22
     placeholder_text: '# TODO напечатать имя первого игрока'
     initial_state:
       length: 36
       offset: 58
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: Igu0GkfvYtLC9NvUiegxE+sjlQFvZjnxPq8xGU+j9g4=
   encrypted_text: o+K3viTHHrAWerK0AJetF+gLV9ir4y9zQQAcKEGpIW4trfw5J+zIsrr6r4jOuSozvip/8u3fBOMR0Dfwt0HcWVcWqpxbQ/3t+OrvnBrQfuQp7PtI9XG/ESVzwiNqgDiRXzHUsMOS3d5HbjK5+YPDOipDYibvtu8viJp+o7+ZK6MsC8PCV7+j1u/r5Sccurp9
   learner_created: false
@@ -23,5 +23,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 17 Mar 2023 17:53:52 UTC
 record: -1

@@ -7,7 +7,7 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 57
+  - offset: 79
     length: 66
     placeholder_text: '# TODO найти и распечатать количество уникальных символов в
       строке'
@@ -15,8 +15,8 @@ files:
       length: 66
       offset: 57
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: E4sCwst2Zf67lDU9JeontBU2B28wBiwqiSfIQoya0lWMbbw576774F9q+Li/u7Oog5s72D5/ERV85uoSwR/60A==
   encrypted_text: KJm/6cw5XSl4OBAWeihLwkMp5qwlv/TxqayKMalAlOFVYgfIkrBJr1R3KRVITmImgPI7FuWo4zlA2nFl7UMF+5n0wV0u4h5NHgbSlWbJnmWUY3x1LZhuWMUN9YlN0mVdnqDUERahezDwAUw53UEGZJr0Wk/9JIhDg4XnBBD8JtTfo9BJSkzCxH9lfHXrtsOPHmlIeiMT2IJ6Y3N+KSD7LO2C75gomOBrUpB6yAklMzMYj91tPbRbJpQdCfw6W5Vz
   learner_created: false
@@ -24,5 +24,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 17 Mar 2023 17:13:14 UTC
 record: -1

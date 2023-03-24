@@ -8,7 +8,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 93
+    length: 282
     placeholder_text: |-
       # TODO продолжить заполнение словаря
       dict_hex = {
@@ -20,8 +20,8 @@ files:
       length: 93
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: Om3ERYnCMDYf8FBFmpx7C8QvCIXyQcnN6nQ9kZ9Yv+OkJPG/reIzVO0ik3hmkQoupju52S8ODKeOeAOa9jbccyPdjZjCFkAQCY/iTGETECotV/5b5oQn/CMiqsw4pEqXX1Ooc4Wt2Yp4cIgFjlcFPO3vesGqa7PxyNn3WWjE68nuY5SaI1/2fDPGpWe5spkAQ2p2bxcG7xdLPgV0yOJ4FN45ee8Qrd+HAVcEV6y5EDnHaVOfFBwm3xkG/DJT5kdpQ5HMcURDKP3x5+h4dZTHmHB8tzkAuesn0SuT/PgbeHsCmgm+/gH93rXfX/LaUrvgzYNhc7+mtMToR0MyvhAMQA==
   encrypted_text: VRB5iP7FT1oQI4PgLQ/CmnrjdasS/7gpxh/ni6VCYGCWOIAMAYBKYXQ+V5SKuhOAtRKqRbDwjMskAV3JIFINOcOpjQMYPt+Pk7cNXiv4w3yyjuuGyaUit0mJWjy8s3Ja6xD+ZRX33r7cbFdu0D/BWvWoyPJR805fDA7O/Xes/JFIKHjgZHJVyRwu3hEHnaxW
   learner_created: false
@@ -29,5 +29,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 17 Mar 2023 17:41:12 UTC
 record: -1

@@ -8,7 +8,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 58
+    length: 162
     placeholder_text: |-
       # TODO реализовать функцию
       def get_unique_words():
@@ -17,8 +17,8 @@ files:
       length: 58
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: dTujSvOWoB+Lab7Ah9eD/Qb62KOYcvVfItQ2puvYbPNKNWj4NhyRlZxfd6Cd1yH9oI5+SVVEQe1WgxYrB0I+vhRCxnZ1o1zMvhbgXa7yts+mPggV2SVo4Hax9TN8KzGpw4SFMQrLf24sNqU5PTii1eHOvOZ8Tx0xyWy3EuG9gh8ccqZUnugzUDeMJeyrKRW3
   encrypted_text: KkJ7ihHu5HS3byluSJIlb8afiF3NK79y2txtfKfLXCnYShQTSve+IcYfoa61g2iJDpZLaiJlAkmlSqrPDulTzCZFfch5WcqLPV5rvWNe83s8/NwBJuONjZ5VjYVnT7JcAha39rv3uNkT81SO7BEvFtJvJQ7ITEOldyBzPBPpcgew8+54ztFFgN/XX1SpRZ/6k+VgReK1VVesk7+gPTocHpDu0JUaU1D9TqNn9oOsQVMSWVD1fv+HnIP/23BY1oVc/xxjZLhrJTC4PnGy/90YnQ==
   learner_created: false
@@ -26,5 +26,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 30 Mar 2023 17:56:17 UTC
 record: -1

@@ -8,7 +8,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 111
+    length: 119
     placeholder_text: |-
       # TODO оформить решение в виде функции
       count_stairs = 4
@@ -18,10 +18,10 @@ files:
       length: 111
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: QOQFsKJ7TNlHi0RzcqqelwVB/gwLDYOX/QjxVBTXgtgKRPxsTM2CHOdw9ESwvXoHcsrhmqeyHbxD4p0xtJW3FFCCvMieyhePP0/4lGXlFKoLpEEMuOS3WkfNbvgmkN516jLKXasThbtiAFL1V54j9g==
-  - offset: 114
+  - offset: 122
     length: 62
     placeholder_text: '# TODO вызвать функцию без аргументов и с аргументом равным
       10'
@@ -30,7 +30,7 @@ files:
       offset: 114
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: 4cwEiQcd5TPCdi0R6yjnhufTh4ELKcadmhTdpPcRlzA=
   encrypted_text: OQEZphLAm9VBIQJRVgS4GVgDUs14rtCbb4TTgBUCstyDK0z2iMFy2obBwQr2e4k7aKOTkFMSYokzZxny9yJiiPyqUJIbGYOMsXLnZHy5pJkWp4KoIFm4Lu+k4hp8hcbZzFN/PciyCKNI9+6EIfoO+Nz+VYQoy7MG2ogTHUKWCDdMYODP/x3MoeUKm2iwRY0cEQVqmEvBOmx8M8vB0W11XBH6hYtaQvFeIg6ZUebrLI+AqIuz5z67YUleF05ygil9CRRPASu6kEF31MsWtibIJC/Pb1M5JN+v3GLgOMHvzyeRuBMUsifFdhrMORUspC0cW/UvDI5GX7VUlGrA7D0gLg==
   learner_created: false
@@ -38,5 +38,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 30 Mar 2023 15:53:31 UTC
 record: -1

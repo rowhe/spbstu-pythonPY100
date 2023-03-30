@@ -8,7 +8,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 48
+    length: 112
     placeholder_text: |-
       # TODO реализовать функцию
       def insert():
@@ -17,8 +17,8 @@ files:
       length: 48
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: z8aud+4Y1wi1LOQCzXVyEB5PVRhdBMeTH4Q36hvl1BNjTyNwI+zFjR//6CjovYjtDQ+qahueRzwg4HWsNQt9mZEgUvTxDlP8odiFwIsHR7IGg4obIIOzXRtyRoZSTtyN
   encrypted_text: KkJ7ihHu5HS3byluSJIlb8afiF3NK79y2txtfKfLXCnYShQTSve+IcYfoa61g2iJQ7VaoWWsuVfQjHobngs0Xg9wC2cDTOp2U2bG+LG9GAJttSdzo3BhLk6znvbwUh++Zv4Cp15sR8ppWKsCONZaoTVWC4t7BdHTSoUOz3XJSddZlyOqmyNi8k5LCLqk5il/NfQhZ5KK0H1gtAkDyqZv2X34r4M77R2lCF+hgbyud0Op/HJwiAGccW5pBf5q7v22xTf+kFMo0dG2wcco7NzLw6pJ0OzWdUS3UVAXOBEc/wI=
   learner_created: false
@@ -26,5 +26,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 30 Mar 2023 17:22:47 UTC
 record: -1

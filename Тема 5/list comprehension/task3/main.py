@@ -23,3 +23,4 @@ students_list = [
 
 
 # TODO  распечатать список кортежей
+print([(s["name"],s["age"]) for s in students_list])

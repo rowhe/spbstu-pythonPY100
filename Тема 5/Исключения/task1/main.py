@@ -12,4 +12,4 @@ def add_func(a: int, b: int) -> int:
     return a + b
 
 
-add_func(1, 1)
+add_func(-1, 1)

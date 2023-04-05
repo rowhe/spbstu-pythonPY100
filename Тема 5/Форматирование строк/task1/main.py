@@ -7,5 +7,5 @@ students_dict = {
 }
 
 # TODO распечатать с использованием f-строк
-for name.value in students_dict() :
-    print(f"Студент {} получил {} баллов")
+for key, value in students_dict.items():
+    print(f'Студент {key} получил {value} баллов')

@@ -1,6 +1,8 @@
 # TODO написать функцию index
-def index():
-    ...
+def index(list_, value) -> int:
+    for i, cur_value in enumerate(list_):
+        if cur_value == value:
+            return i
 
 
 list_items = [1, 2, "3", 1]

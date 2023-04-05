@@ -4,13 +4,13 @@ list_ = [3, 4, 8, 9, 6, 6, 2, 4, 3, 3, 1]
 even=0
 odd=0
 # TODO с помощью одного цикла перебрать все числа и посчитать количество четных и нечетных
-for i in list_:
+while i in list_:
     if i // 2 == 0:
-        even+=1
-    else:
         odd+=1
+    else:
+        even+=1
 if even > odd:
-    print("one")
+    print("Четных чисел больше")
 else:
-    print("two")
+    print("Нечетных чисел больше")
 # TODO вывести каких чисел больше

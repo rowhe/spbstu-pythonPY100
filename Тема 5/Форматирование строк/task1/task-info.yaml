@@ -15,7 +15,7 @@ files:
       offset: 106
     initialized_from_dependency: false
     selected: true
-    status: Failed
+    status: Solved
     encrypted_possible_answer: aBkiJwCMdcmZOwX9t/40sZMqo1M95EC+yIlXkOzR3nUGQU7tVh5VpBAHgZwSN9KeJK1h/t7UjFhGivoD14QMW3xLUJ4fR2duEeFGZY1PvJcE0zn591Vn6l/M64SBm621fBblP6wLumHt4FzCiwK/efWTFvGjIRzZaf/+3KsVLn4=
   encrypted_text: Jnt8FkEgm7q2d9dxdG5GceDsv/uAwnrfmqqgprEH+/xqpYB9wxXqLURlX+08vfRwOjxi30tFnLWxsoZyEfuk1qT/Sj4FxdwbSY7PqUhYYjO+D9G0TtV+kPjmmB0K2kLVqHeJgHVvjEuO/2g8Q65QLikWIvdcfJewgs2R7uGlYjSQAvPtlb/NsyliyOyM6EKa5PpV2Pii5yupFxTrbANaz7eD4vPQk8E+uxFLaAoMJfOqvCxVu8PTpmJuNB/U4whmHNEnhFLUjZdkoy5ZY02Jdg==
   learner_created: false
@@ -23,15 +23,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Failed
+status: Solved
 feedback:
-  message: Incorrect
-  time: Wed, 05 Apr 2023 15:20:15 UTC
-  expected: |
-    Студент Саша получил 27 баллов
-    Студент Кирилл получил 52 баллов
-    Студент Маша получил 14 баллов
-    Студент Петя получил 36 баллов
-    Студент Оля получил 43 баллов
-  actual: <no output>
+  message: Congratulations!
+  time: Wed, 05 Apr 2023 18:10:55 UTC
 record: -1

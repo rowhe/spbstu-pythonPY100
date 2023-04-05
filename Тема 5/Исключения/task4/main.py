@@ -1,6 +1,6 @@
 # TODO написать функцию remove
-def remove():
-    ...
+def remove(list_,value):
+    for i
 
 
 print(remove([0, 0, 1, 2], 0))  # [0, 1]

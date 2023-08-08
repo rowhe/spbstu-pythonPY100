@@ -1,2 +1,4 @@
 count_stairs = 4
-# TODO распечатать лесенку
+for i in reversed(range(count_stairs + 1)):
+    if i > 0:
+        print("*" * i)# распечатать лесенку

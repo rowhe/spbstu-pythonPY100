@@ -18,7 +18,7 @@ files:
     status: Solved
     encrypted_possible_answer: T79yKr1gUeqCJa5XBgWx5PoaXfyOyRIiKsCRQaypdAQ=
   - offset: 99
-    length: 35
+    length: 31
     placeholder_text: '...)  # TODO сумма цифр'
     initial_state:
       length: 23
@@ -27,8 +27,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 7+Yn8L3ajQuZDjEtznIyN8+fjB5Wu5ybb1m241yRxJk=
-  - offset: 160
-    length: 40
+  - offset: 156
+    length: 36
     placeholder_text: '...)  # TODO количество цифр'
     initial_state:
       length: 28
@@ -37,8 +37,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 73aNCq4b+oYtFBSI5s0XOwtUYyxgpfbQxaMZzXW5HO8=
-  - offset: 228
-    length: 42
+  - offset: 220
+    length: 37
     placeholder_text: '...)  # TODO минимальная цифра'
     initial_state:
       length: 30
@@ -47,8 +47,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: U/qVmNOw66xE4uxjgjwxZdSj6sIDZJ35UT9YVZMOjB8=
-  - offset: 299
-    length: 43
+  - offset: 286
+    length: 38
     placeholder_text: '...)  # TODO максимальная цифра'
     initial_state:
       length: 31
@@ -57,8 +57,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: l0bujoM+NG4NdF+qRaAcW7Faez+VSxYtJfYaZsRzWy8=
-  - offset: 380
-    length: 77
+  - offset: 362
+    length: 76
     placeholder_text: '...)  # TODO среднее арифметическое цифр'
     initial_state:
       length: 40
@@ -76,5 +76,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Fri, 17 Mar 2023 17:54:39 UTC
+  time: Tue, 08 Aug 2023 09:37:10 UTC
 record: -1

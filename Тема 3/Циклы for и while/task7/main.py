@@ -33,3 +33,26 @@ poem = """У лукоморья дуб зелёный;
 Свои мне сказки говорил."""
 
 # TODO посчитать количество русской буквы "а"
+
+str2 = ""
+search_letter = "a"
+COUNTER = 0
+
+str1 = poem.lower().split()
+#print(str1)
+str2 = str2.join(str1)
+#print(str2)
+
+for i in str2:
+    # counter = 0
+    if i.isalpha():
+        print(i)
+        if i == search_letter:
+            COUNTER += 1
+
+print(COUNTER)
+
+
+
+
+

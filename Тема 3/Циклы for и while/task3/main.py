@@ -1,3 +1,5 @@
 count_stairs = 4
-for i in ...:  # TODO как получить последовательность целых чисел от 1 до 4 включительно?
-    ...  # TODO печать очередной ступени
+count = 0
+for i in range(count_stairs):
+    count += 1
+    print("*" * count)

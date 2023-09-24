@@ -8,13 +8,13 @@ files:
   visible: true
   placeholders:
   - offset: 21
-    length: 175
+    length: 64
     placeholder_text: '# TODO посчитать количество действий над числом согласно условию'
     initial_state:
       length: 64
       offset: 21
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: FZNs/4nfwXfQLJOMBxyLEfKahhs/yoysQfKqNyFmlAAN2bguDO7LOFS5oZZYcQsbXDfxKnCRTXB2AHYEE+NuCyEzg7Q4d0Mt3E5yYmadeYZ9ssg7dSKC+6nzmuIe4ViCPMI6GL6EIp04YlNjfuANxQ==
   encrypted_text: N33oWX6e0z/MmuKrYDS2BkpOub9gb9TMf4ClqAvKewliQY6z0u1RIhL9rOte+qj2pzZRc2Tbk88lHgm8jJHQynARUWtA8kvjmaH0qTPCKnZwUKDnF73L9rPmagsVto7VegH8pqx3crcSOgCFqS2pe2dnsWpGhiT06fJ6BHH6VKGSsT5YZG6O3L7X7bnkj9a6itt4o/zwbZVXxTw6b7M5zA==
@@ -26,5 +26,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Tue, 08 Aug 2023 10:56:16 UTC
+  time: Sun, 24 Sep 2023 14:19:45 UTC
 record: -1

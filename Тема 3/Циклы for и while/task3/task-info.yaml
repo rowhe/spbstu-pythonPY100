@@ -12,8 +12,8 @@ files:
     placeholder_text: '...:  # TODO как получить последовательность целых чисел от
       1 до 4 включительно?'
     initial_state:
-      length: 80
-      offset: 26
+      length: 20
+      offset: 36
     initialized_from_dependency: false
     selected: true
     status: Solved
@@ -22,8 +22,8 @@ files:
     length: 37
     placeholder_text: '...  # TODO печать очередной ступени'
     initial_state:
-      length: 36
-      offset: 111
+      length: 37
+      offset: 57
     initialized_from_dependency: false
     selected: true
     status: Solved

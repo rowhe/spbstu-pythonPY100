@@ -12,7 +12,7 @@ files:
     placeholder_text: '...  # TODO записать условие, что если встретили искомую оценку,
       то счетчик увеличиваем на 1'
     initial_state:
-      length: 92
+      length: 128
       offset: 338
     initialized_from_dependency: false
     selected: true
